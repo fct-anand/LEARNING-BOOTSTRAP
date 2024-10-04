@@ -1,0 +1,26 @@
+.bg-aanand{
+    background-color: aqua;
+}
+.bg-purple{
+    background-color: blueviolet;
+}
+.active2{
+    color: red;
+    background-color: white;
+    border-radius: 50%;
+}
+.active2:hover{
+    color: rgb(95, 188, 157);
+    background-color: rgb(150, 44, 44);
+    border-radius: 50%;
+}
+.t_shadow{
+    text-shadow: 2px 4px 10px red;
+}
+.insta {
+    /* background: #833ab4; */
+    background-image: linear-gradient(
+      to right,
+      #833ab4,#fd1d1d,#fcb045
+    );
+  }
